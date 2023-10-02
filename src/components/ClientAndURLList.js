@@ -252,6 +252,7 @@ const ClientAndURLList = () => {
 						boxShadow: "0px 4px 8px rgba(0, 0, 0, 0.1)",
 					}}
 				>
+					<h1>Blank Space</h1>
 					<h2>Passphrase</h2>
 					<form
 						onSubmit={(e) => {
